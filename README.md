@@ -1,2 +1,1 @@
-# Amazon_clone
-#HTML#javascript
+# Amazon#javascript
