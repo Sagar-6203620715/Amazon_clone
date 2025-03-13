@@ -1,1 +1,1 @@
-# Amazon#javascript#css
+# Amazon#javascript
