@@ -1,2 +1,2 @@
-# Amazon#javascripts
+# Amazon#javascript
 
